@@ -11,7 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ShahbazKhan454_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ShahbazKhan454" height="30" width="40" /></a>
-<a href="https://linkedin.com/ShahbazKhan45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ShahbazKhan45" height="30" width="40" /></a>
+<a href="https://pk.linkedin.com/in/shahbazkhan45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ShahbazKhan45" height="30" width="40" /></a>
 <a href="https://www.facebook.com/shahbazkhan4545" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shahbazKhan4545" height="30" width="40" /></a>
 <a href="https://www.instagram.com/shahbaz_khan45/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shahbaz_khan45/" height="30" width="40" /></a>
 <a href="https://www.behance.net/shahbazkhan45_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="shahbazkhan45_" height="30" width="40" /></a>
